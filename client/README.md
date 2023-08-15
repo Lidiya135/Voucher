@@ -14,4 +14,4 @@ Untuk admin bisa mendaftar dan login dengan akun berbeda untuk menamambahkan pro
 
 |My Products Page |
 | ------------- |
-| ![My Products](https://github.com/Lidiya135/Voucher/blob/main/client/public/ss/home.png "My Products") | 
+| ![My Products](https://raw.githubusercontent.com/Lidiya135/Voucher/main/client/public/ss/myproduct.png "My Products") | 

@@ -1,0 +1,37 @@
+.page{
+  margin: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.container{
+  background-color: whitesmoke;
+  width: 100vw;
+  height: 100vh;
+}
+h2{
+  text-align: center;
+}
+.invoice{
+  padding: 6px;
+  border: 1px solid black;
+  width: 45%;
+  background-color: rgb(212, 233, 252);
+  margin-bottom: 20px;
+}
+.page h5{
+  text-align: center;
+}
+.product{
+  display: flex;
+  justify-content: space-between;
+}
+span{
+  padding: 3px;
+}
+.voucher{
+  padding: 6px;
+  border: 1px solid black;
+  width: 45%;
+  height: 50%;
+  background-color: rgb(248, 218, 218);
+}

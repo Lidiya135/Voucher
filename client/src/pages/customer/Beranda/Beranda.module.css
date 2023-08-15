@@ -1,0 +1,68 @@
+.pages{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(218, 234, 248);
+    padding: 20px;
+    display: flex;
+}
+.foods{
+    width: 60%;
+    height: 100%;
+    /* background-color: rgb(151, 202, 247); */
+    text-align: center;
+}
+.transaksi{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(196, 225, 250);
+    margin-left: 20px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+.gambar{
+    display: flex;
+    justify-content: flex-start;
+    gap:18px;
+    flex-wrap: wrap;
+    padding: 14px;
+}
+.boxgbr{
+    width: 160px;
+    height: 220px;
+    border: 1px black solid;
+    background-color: white;
+}
+.boxgbr img{
+    width: 100%;
+    height: 70%;
+    margin-bottom: 5px;
+}
+.boxgbr span{
+    /* background-color: blanchedalmond; */
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.pagination{
+    /* background-color: antiquewhite; */
+    display: flex;
+    margin-top: 10px;
+    gap: 200px;
+    justify-content:center;
+    /* padding: 50px; */
+  }
+  .pagination h6{
+    padding-top: 6px;
+  }
+  .view{
+    display: flex;
+    gap: 15px;
+    /* background-color: brown; */
+  }
+  .next{
+    /* background-color: #282c34; */
+    display: flex;
+    gap: 10px;
+  }

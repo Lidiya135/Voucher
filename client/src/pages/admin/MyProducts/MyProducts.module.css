@@ -1,0 +1,21 @@
+.pagination{
+    /* background-color: antiquewhite; */
+    display: flex;
+    gap: 200px;
+    justify-content:center;
+    /* padding: 50px; */
+  }
+  .pagination h6{
+    padding-top: 6px;
+  }
+  .view{
+    display: flex;
+    gap: 15px;
+    /* background-color: brown; */
+  }
+  .next{
+    /* background-color: #282c34; */
+    display: flex;
+    gap: 10px;
+  }
+  

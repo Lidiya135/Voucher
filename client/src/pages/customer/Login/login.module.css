@@ -1,0 +1,118 @@
+.containerLogin {
+    align-items: center;
+    display: flex;
+    font-family: metropolis;
+    font-weight: bolder;
+    background-color: #ffffff;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    align-items: center;
+  }
+  .forget{
+    text-align: right;
+    color: #db3022;
+    font-size: 12px;
+    
+  }
+  
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .container {
+      width: 100%;
+      height: 100vh;
+    }
+    .content {
+      padding: 10px;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  
+  .title {
+    /* background-color: #dbd822; */
+    margin-top: 10px;
+    left: 920px;
+    flex: flex;
+  }
+  .logo {
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 20px;
+    flex: flex;
+    color: #db3022;
+    flex-direction: row;
+    justify-items: baseline;
+  }
+  .logo a {
+    text-decoration: none;
+    color: #db3022;
+  }
+  image {
+    width: 35.85px;
+    height: 50px;
+  }
+  p {
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #222222;
+    margin-top: 20px;
+  }
+  .swictacount {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    color: 1px solid #9b9b9b;
+    margin-bottom: 30px;
+  }
+  .form {
+    flex: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    background-color: #ffffff;
+  }
+  
+  a {
+    flex: white;
+    justify-content: flex-end;
+    margin-top: 30px;
+  }
+  
+  .btn_customer {
+    width: 123px;
+    height: 48px;
+    color: #9b9b9b;
+    background-color: #ffffff;
+    border: 1px solid #9b9b9b;
+    border-radius: 4px 0px 0px 4px;
+  }
+  .btn_seller {
+    width: 123px;
+    height: 48px;
+    border: 0px;
+    color: #9b9b9b;
+    border: 1px solid #9b9b9b;
+    background-color: #ffffff;
+    border-radius: 0px 4px 4px 0px;
+  }
+  
+  .register p {
+    font-size: 14px;
+    color: #222222;
+  }
+  .forget a {
+    color: #db3022;
+  }
+  
+  .register a {
+    color: #db3022;
+  }

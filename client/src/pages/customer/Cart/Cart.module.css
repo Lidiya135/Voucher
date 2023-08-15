@@ -1,0 +1,36 @@
+.transac{   
+  background-color: rgb(196, 225, 250);
+  text-align: center;
+}
+.title{
+  margin-bottom: 12px;
+}
+.transac h6{
+  background-color: white;
+  padding: 10px;
+}
+.table{
+  padding: 0px 16px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: max-content;
+  gap:8px;
+}
+.transac h5{
+  color: gray;
+  margin: 8px 0px;
+  background-color: white;
+  padding: 10px;
+}
+.check{
+  margin: 0 auto;
+  height: 50px;
+  width: 100%;
+  background-color: rgb(154, 92, 235);
+}
+.check h4{
+  color: black;
+  padding-top: 8px;
+}
